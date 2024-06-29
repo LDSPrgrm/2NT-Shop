@@ -13,5 +13,13 @@ class Account extends Model
         'ign',
         'id',
         'server',
+        'diamonds',
+        'wdp_count',
+        'start_date',
+        'end_date',
+        'days_left',
+        'estimated_total_diamonds',
+        'current_diamonds_auto',
+        'current_diamonds_manual'
     ];
 }
